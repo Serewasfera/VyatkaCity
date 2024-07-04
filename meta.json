@@ -3,6 +3,14 @@
   "hotfixesFormat": null,
   "versions": [
         {
+        "id": "1.2",
+        "releasedAt": 1719781200000,
+        "promotions": {
+            "downloads": {
+                "generic": ""
+            }
+        },
+        {
         "id": "1.3",
         "releasedAt": 1720098908125,
         "promotions": {
