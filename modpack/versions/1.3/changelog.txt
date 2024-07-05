@@ -1,2 +1,2 @@
-- Удалён мод AstikorCars
-- Добавлен мод Urban Infrastructure
+- Mod "AstikorCars" removed
+- Mod "Urban Infrastructure" added
